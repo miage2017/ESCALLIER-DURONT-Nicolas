@@ -1,0 +1,6 @@
+1.4.1 Le B.A.BA , un serveur jouet
+1. Seul la première connexion fonctionne
+2. La connexion continue mais le serveur n'est plus là
+3. Une erreur se produit car le port est déjà utilisé
+
+1.4.2. Un Serveur Amélioré
